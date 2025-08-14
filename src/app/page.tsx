@@ -45,7 +45,6 @@ export default function Home() {
         </main>
         <LogoSlider/>
       </div>
-      {/* box section */}
       <div className="bg-[url('/howit-work.png')] bg-cover bg-no-repeat bg-center py-20">
         <div className="container mx-auto">
           <div className="pb-10">
