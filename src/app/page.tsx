@@ -48,6 +48,17 @@ export default function Home() {
       </div>
       <HowItWork/>      
       <FAQ/>
+      {/* Footer */}
+      <footer className="w-full bg-black text-center py-6 border-t border-gray-800">
+        <a 
+          href="https://x.com/CoConnect_?t=xF34z63b2OhMvZzPSyr_tA&s=09" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className="text-secondary hover:text-primary transition-colors"
+        >
+          Follow us on Twitter
+        </a>
+      </footer>
     </div>
   );
 }
