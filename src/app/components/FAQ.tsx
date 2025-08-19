@@ -75,7 +75,7 @@ export default function FAQ() {
           <a
             className="rounded-full border-[2px] border-solid border-primary flex items-center justify-center text-primary gap-2  
             font-medium text-[20px] px-10 py-2 transition-all transform hover:bg-primary hover:text-black hover:-translate-y-2"
-            href=""
+            href="https://calendly.com/rik-syntic/30min"
             target="_blank"
           >
             Book a Call
