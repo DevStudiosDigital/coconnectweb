@@ -13,8 +13,8 @@ export default function Home() {
             <Image
               src="/cc-logo.svg"
               alt="CC Logo"
-              width={150}
-              height={150}
+              width={100}
+              height={100}
               priority
               className="object-cover mx-auto sm:ml-0"
             />
