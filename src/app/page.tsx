@@ -29,7 +29,7 @@ export default function Home() {
                 <a
                   className="rounded-full border border-solid border-transparent flex items-center justify-center bg-secondary text-foreground gap-2 
                   font-medium text-[23px] px-6 py-2 transition-all transform hover:bg-primary hover:text-black hover:-translate-y-2"
-                  href="https://calendly.com/rik-syntic/30min"
+                  href="https://calendly.com/rik-community3/30min"
                   target="_blank"
                 >
                   <Image

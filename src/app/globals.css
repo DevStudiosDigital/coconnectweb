@@ -23,8 +23,8 @@ p{
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffffff;
+    --foreground: #010100;
     --primary: #B5FF00;
     --secondary: #fff;
   }
