@@ -7,7 +7,7 @@ interface FAQItem {
 const faqs: FAQItem[] = [
   {
     question: "How is this service free?",
-    answer: "(Co-Connect is a product by Syntic. We are veterans in the web3 space and have multiple marketing products and agencies active. Co-Connect is a value add for both those in the network, as well as our own clients)",
+    answer: "(Co-Connect is a product by Community3. We are veterans in the web3 space and have multiple marketing products and agencies active. Co-Connect is a value add for both those in the network, as well as our own clients)",
   },
   {
     question: "How will the connections be made?",
@@ -23,7 +23,7 @@ const faqs: FAQItem[] = [
   },
   {
     question: "What other services do you provide?",
-    answer: "(Our main brand, Synthetic, provides a full range of GTM / marketing services for web3 & web2.5 companies.",
+    answer: "(Our main brand, Community3, provides a full range of GTM / marketing services for web3 & web2.5 companies.",
   },
 ];
 export default function FAQ() {
